@@ -7,7 +7,7 @@ Who doesn't like getting packages?
 A new delivery service is in town, but the site doesn't seem to be fully complete. Maybe there's a secret administrative interface that we can access somehow?
 ``````
 
-<img src="https://github.com/PotatoStealer/Archives/blob/master/Whitehacks2020/Going%20Postal/cookie.png" style="zoom: 40%"/> 
+<img src="https://github.com/PotatoStealer/Archives/blob/master/WhiteHacks2020/Going%20Postal/website.PNG" style="zoom: 40%"/> 
 
 This is a reference to the GET and POST requests.
 
